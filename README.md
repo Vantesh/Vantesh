@@ -1,5 +1,5 @@
 # 💫 About Me:
-As a software engineer, I bring a unique blend of technical skills and personal qualities to every project I work on. With a passion for problem-solving and a love for creating innovative solutions, I approach each challenge with an analytical mind and a keen eye for detail.<br><br>I am a natural collaborator and team player, with excellent communication skills that allow me to work effectively with stakeholders at all levels. I thrive in fast-paced environments and am always eager to learn new technologies and expand my skillset.<br><br>Overall, I am a dedicated and reliable software engineer who takes pride in delivering quality work and building strong relationships with colleagues and clients alike.
+A Software Engineering student.
 
 
 ## 🌐 Socials:
