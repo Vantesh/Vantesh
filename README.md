@@ -1,6 +1,6 @@
 # 💫 About Me:
 A Software Engineering student.
-
+[![](https://visitcount.itsvg.in/api?id=van-tesh&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/victor-muthiani) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/vantesh) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/smallet90) 
@@ -11,5 +11,7 @@ A Software Engineering student.
 ![](https://github-readme-stats.vercel.app/api?username=Van-tesh&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Van-tesh&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Van-tesh&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
